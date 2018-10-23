@@ -1,5 +1,5 @@
-﻿# nice-algorithms
- 整理一些自己写过的算法
+﻿# some-ideas
+ 整理一些自己一些想法, 偶尔会写点博客 [fxxjdedd的博客](https://fxxjdedd.github.io/)
  
  ## grammer-resolve.js
  实现一个自定义的语法规则，来解析传入的数据
