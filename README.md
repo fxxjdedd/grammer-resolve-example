@@ -6,3 +6,6 @@
  
  ## generate-dfs.js
  使用generate函数的思想，非递归dfs
+
+ ## emmiter.js
+ 实现一个事件发射器
