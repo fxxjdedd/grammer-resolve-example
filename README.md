@@ -9,3 +9,6 @@
 
  ## emmiter.js
  实现一个事件发射器
+ 
+ ## react-setState.js
+ 理解react的setState执行原理
