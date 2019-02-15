@@ -1,7 +1,6 @@
 ﻿# some-ideas
  整理一些自己一些想法, 偶尔会写点博客 
  
- - [fxxjdedd的博客](https://fxxjdedd.github.io/)
  - [掘金专栏](https://juejin.im/user/59649d23f265da6c4f34e40c)
  
  ## grammer-resolve.js
